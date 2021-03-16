@@ -51,6 +51,7 @@ ul {
 li {
   text-transform: lowercase;
   width: 33%;
+  border: 1px dotted red;
 }
 
 }
